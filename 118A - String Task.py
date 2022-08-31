@@ -1,4 +1,4 @@
-#170363435	Aug/31/2022 10:44UTC+2	hassanfathi2002	118A - String Task	Python 3	Accepted	92 ms	0 KB
+#170367392	Aug/31/2022 11:33UTC+2	hassanfathi2002	118A - String Task	Python 3	Accepted	92 ms	0 KB
 s=input().lower()
 s_new=''
 vowels=list('aouyie')
